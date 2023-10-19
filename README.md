@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Dataset 2023 Analysis
+# Credit Card Fraud Detection 2023 Dataset Analysis & Machine Learning
 ### Author: Jonathan Wan 
 
 This project uses the `Credit Card Fraud Detection Dataset 2023` which contains credit card transactions made by European cardholders in the year 2023. It comprises **over 550,000 records**, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
